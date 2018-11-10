@@ -1,0 +1,12 @@
+name: Diamonds_Explorer
+title: Diamonds_Explorer
+username:
+account: nkjadhav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 559966
+bundleId: 1689693
+url: https://nkjadhav.shinyapps.io/Diamonds_Explorer/
+when: 1541686617.4434
+asMultiple: FALSE
+asStatic: FALSE
